@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Chloe and I'm a third year software engineering student from Canada. Here is some info about me!
+
+⚡ Work experience:
+- Software Engineer part time at Prodapt [Remote. Summer 2022]
+- Software Engineer intern at Rogers [Remote. Winter 2022]
+- Software Developer intern at Energir [Remote. Fall 2021]
+
+💬 Reach me by [email](chloelaw75@hotmail.com) or [Linkedln](http://www.linkedin.com/in/chloehylaw)! 
+
 <!--
 **chloehylaw/chloehylaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
