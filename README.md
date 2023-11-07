@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-My name is Chloe and I'm a third year software engineering student from Canada. Here is some info about me!
+My name is Chloe and I'm a fourth year software engineering student from Canada. Here is some info about me!
 
 ⚡ Work experience:
 - Software Engineer part time at Prodapt [Remote. Summer 2022]
 - Software Engineer intern at Rogers [Remote. Winter 2022]
 - Software Developer intern at Energir [Remote. Fall 2021]
+- Software Developer intern at Merkur [Hybrid. Summer 2023]
 
 ✍ Students can find my school notes and documents [here](https://chloehylaw.notion.site/Concordia-Software-Engineering-7c70a78abca54184a03eaeb6b6f8a2f0).
 
